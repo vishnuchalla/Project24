@@ -3,4 +3,4 @@ This code consists of two modules used in the project 24 app which is released i
 1.Login for User Registration along with Corresponding PHP Files and WebPages!!
 2.Navigation Drawer with a Map!!
 
-# Play Store link :- https://play.google.com/store/apps/details?id=com.user.alltronics.locate
+[Play Store Link](https://play.google.com/store/apps/details?id=com.user.alltronics.locate)
